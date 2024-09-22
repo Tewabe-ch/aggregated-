@@ -1,2 +1,2 @@
-# aggregated-
-The final dataset contains 1,231 entries and 396 columns
+# aggregated Dataset-
+Based on the latitude and longitude values in the dataset, we fetched additional variables. The final dataset contains 1,231 entries and 396 columns, which include a mix of climatic variables, land use types, and other factors related to SOC and MAOC. Key columns include Latitude, Longitude, Soil Organic Carbon, Mineral-Associated Organic Carbon, Year of observation, temperature-related variables, and various vegetation types
